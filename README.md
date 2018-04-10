@@ -4,12 +4,12 @@ Current version: 3.4.3 RC1
 
 Copyright (c) 8888 Bitcoin Developers
 
-Copyright (c) 2017 TravelFlex Developers
+Copyright (c) 2017 Tripcoin Developers
 
 
 Specifications:
 ---------------
-Algorithm: Scrypt
+Algorithm: Scrypt x11
 
 Block Time: 60 Seconds
 
