@@ -77,9 +77,7 @@ Installing the dependencies using MacPorts is very straightforward.
 1. Clone the github tree to get the source code and go into the directory.
 
         git clone git@github.com:TravelFlex-project/TravelFlex.git TravelFlex
-        cd TravelFlex
-
-2.  Build TravelFlexd:
+        cd TripCoin2.  Build TravelFlexd:
 
         cd src
         make -f makefile.osx
@@ -112,9 +110,7 @@ Rerunning "openssl version" should now return the correct version.
 1. Clone the github tree to get the source code and go into the directory.
 
         git clone git@github.com:TravelFlex-project/TravelFlex.git TravelFlex
-        cd TravelFlex
-
-2.  Modify source in order to pick up the `openssl` library.
+        cd TripCoin2.  Modify source in order to pick up the `openssl` library.
 
     Edit `makefile.osx` to account for library location differences. There's a
     diff in `contrib/homebrew/makefile.osx.patch` that shows what you need to

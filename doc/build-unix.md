@@ -12,9 +12,7 @@ To Build
 ---------------------
 
 	cd src/
-	make -f makefile.unix		# Headless TravelFlex
-
-See readme-qt.rst for instructions on building TravelFlex-Qt, the graphical user interface.
+	make -f makefile.unix		# Headless TripCoinSee readme-qt.rst for instructions on building TravelFlex-Qt, the graphical user interface.
 
 Dependencies
 ---------------------

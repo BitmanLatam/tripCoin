@@ -172,9 +172,7 @@ endif
 all: TravelFlexd
 
 test check: test_TravelFlex FORCE
-	./test_TravelFlex
-
-#
+	./test_TripCoin#
 # LevelDB support
 #
 MAKEOVERRIDES =

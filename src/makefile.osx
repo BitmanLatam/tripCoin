@@ -133,9 +133,7 @@ endif
 all: TravelFlexd
 
 test check: test_TravelFlex FORCE
-	./test_TravelFlex
-
-#
+	./test_TripCoin#
 # LevelDB support
 #
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
