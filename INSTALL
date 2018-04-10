@@ -1,7 +1,7 @@
-Building TripCoinSee doc/readme-qt.rst for instructions on building TravelFlex-Qt,
+Building TripCoinSee doc/readme-qt.rst for instructions on building TripCoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of TravelFlex.
+implementation of TripCoin.
 
-See doc/build-*.txt for instructions on building TravelFlexd,
+See doc/build-*.txt for instructions on building TripCoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of TravelFlex.
+implementation of TripCoin.
